@@ -1,9 +1,9 @@
 {
-  "name": "vk-apps-tensorflow-example",
+  "name": "vk-apps",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://VKCOM.github.io/vk-apps-tensorflow-example/",
+  "homepage": "https://maxxxpavlov.github.io/vk-apps/",
   "scripts": {
     "start": "cross-env PORT=80 react-scripts start",
     "build": "react-scripts build",
