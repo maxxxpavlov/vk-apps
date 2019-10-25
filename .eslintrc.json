@@ -1,0 +1,47 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es6": true
+    },
+    "extends": [],
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly",
+        "jQuery": "readonly",
+        "Ajax": "readonly",
+        "showFormError": "readonly",
+        "moment": "readonly"
+    },
+    "parserOptions": {
+        "ecmaVersion": 2019,
+        "sourceType": "module"
+
+    },
+    "rules": {
+        "linebreak-style": 0,
+        "eslint linebreak-style": [0, "error", "windows"],
+        "import/extensions": [2, {
+            "js": "ignore",
+            "json": "always",
+            "mjs": "ignore"
+        }],
+        "no-console": "error",
+        "prefer-arrow-callback": "error",
+        "comma-dangle": "off",
+        "arrow-parens": "off",
+        "no-underscore-dangle": "off",
+        "no-shadow": "off",
+        "implicit-arrow-linebreak": "off",
+        "no-param-reassign": "off",
+        "object-curly-newline": "warn",
+        "no-restricted-syntax": "off",
+        "no-continue": "off",
+        "no-confusing-arrow": "off",
+        "guard-for-in": "off",
+        "prefer-const": "warn",
+        "consistent-return": "off",
+        "no-restricted-globals": "off",
+        "no-alert": "off"
+    }
+}
