@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/vk-apps-tensorflow-example/static/js/main.3b926384.chunk.js",
+    "main.js.map": "/vk-apps-tensorflow-example/static/js/main.3b926384.chunk.js.map",
+    "runtime-main.js": "/vk-apps-tensorflow-example/static/js/runtime-main.aeb91ddf.js",
+    "runtime-main.js.map": "/vk-apps-tensorflow-example/static/js/runtime-main.aeb91ddf.js.map",
+    "static/css/2.7214840c.chunk.css": "/vk-apps-tensorflow-example/static/css/2.7214840c.chunk.css",
+    "static/js/2.d1bfae26.chunk.js": "/vk-apps-tensorflow-example/static/js/2.d1bfae26.chunk.js",
+    "static/js/2.d1bfae26.chunk.js.map": "/vk-apps-tensorflow-example/static/js/2.d1bfae26.chunk.js.map",
+    "index.html": "/vk-apps-tensorflow-example/index.html",
+    "precache-manifest.3a7d3d67f6d711f5ab27615c43540eb8.js": "/vk-apps-tensorflow-example/precache-manifest.3a7d3d67f6d711f5ab27615c43540eb8.js",
+    "service-worker.js": "/vk-apps-tensorflow-example/service-worker.js",
+    "static/css/2.7214840c.chunk.css.map": "/vk-apps-tensorflow-example/static/css/2.7214840c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeb91ddf.js",
+    "static/css/2.7214840c.chunk.css",
+    "static/js/2.d1bfae26.chunk.js",
+    "static/js/main.3b926384.chunk.js"
+  ]
+}
