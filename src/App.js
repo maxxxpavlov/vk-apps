@@ -8,6 +8,7 @@ const SERVER_API = 'https://api.lildiary.ru';
 
 
 connect.subscribe((e) => {
+
     if (e.detail.type === 'VKWebAppAccessTokenReceived') {
         const { data } = e.detail;
         console.log(data)
